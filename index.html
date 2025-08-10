@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Свежие видео YouTube</title>
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Arial,sans-serif;margin:24px;background:#0b0c10;color:#eaf0f1}
+    h1{margin:0 0 12px;font-size:24px}
+    .meta{opacity:.8;margin-bottom:16px}
+    .card{background:#14161c;border:1px solid #232730;border-radius:14px;padding:14px 16px;margin:10px 0;box-shadow:0 1px 4px rgba(0,0,0,.3)}
+    .ch{font-weight:600}
+    .title{margin:4px 0}
+    a{color:#8ab4f8;text-decoration:none}
+    a:hover{text-decoration:underline}
+    .age{opacity:.8;font-size:13px}
+    .controls{margin:8px 0 16px; display:flex; gap:8px; flex-wrap:wrap; align-items:center}
+    input[type=number]{width:100px;padding:6px;border-radius:8px;border:1px solid #303642;background:#0f1117;color:#eaf0f1}
+    button{padding:8px 12px;border-radius:10px;border:1px solid #2e3540;background:#1a1f29;color:#eaf0f1;cursor:pointer}
+    button:hover{background:#223042}
+    .pill{padding:4px 8px;border:1px solid #2e3540;border-radius:999px}
+    footer{opacity:.7;margin-top:24px;font-size:12px}
+    .small{font-size:12px; opacity:.8}
+  </style>
+</head>
+<body>
+  <h1>Свежие видео YouTube</h1>
+  <div class="meta">Данные из <code>latest_results.json</code>. Страница автоматически сортирует: <b>самые свежие сверху</b>.</div>
+
+  <div class="controls">
+    <button id="refreshBtn">Обновить сейчас</button>
+    <button id="soundBtn" class="pill">🔔 Включить звук</button>
+    <label>Период опроса, сек: <input type="number" id="period" value="10" min="5" max="120"></label>
+    <span class="small">Интервал автообновления: <b><span id="every">10</span> сек</b></span>
+    <span id="status" class="age"></span>
+  </div>
+
+  <div id="list"></div>
+  <div class="small">Сортировка: по <code>age_seconds</code> (ASC). Если поля нет — считаем из <code>published_at_utc</code>.</div>
+
+  <footer>Поддерживается ботом <code>yt_fresh_simple_bot.py</code>. Для автообновления каждые 10 минут запусти у бота: <code>/auto 10 24</code>.</footer>
+
+<script>
+let timer = null;
+const list = document.getElementById('list');
+const statusEl = document.getElementById('status');
+const btn = document.getElementById('refreshBtn');
+const soundBtn = document.getElementById('soundBtn');
+const periodInp = document.getElementById('period');
+const everySpan = document.getElementById('every');
+
+// Звук
+let audioCtx = null;
+function enableSound(){
+  try{ audioCtx = new (window.AudioContext || window.webkitAudioContext)(); }
+  catch(e){ console.log('AudioContext error', e); }
+}
+function beep(){
+  if(!audioCtx) return;
+  const o = audioCtx.createOscillator();
+  const g = audioCtx.createGain();
+  o.connect(g); g.connect(audioCtx.destination);
+  o.type = 'sine'; o.frequency.value = 880;
+  g.gain.setValueAtTime(0.001, audioCtx.currentTime);
+  g.gain.exponentialRampToValueAtTime(0.2, audioCtx.currentTime + 0.02);
+  g.gain.exponentialRampToValueAtTime(0.0001, audioCtx.currentTime + 0.25);
+  o.start(); o.stop(audioCtx.currentTime + 0.26);
+}
+soundBtn.addEventListener('click', () => { enableSound(); soundBtn.textContent='🔔 Звук включён'; soundBtn.disabled=true; beep(); });
+
+function formatAge(sec){
+  sec = Math.max(0, sec|0);
+  if (sec < 60) return sec + ' сек назад';
+  const m = Math.floor(sec / 60);
+  if (m < 60) return m + ' мин назад';
+  const h = Math.floor(m / 60);
+  const mm = m % 60;
+  if (h < 24) return h + ' ч' + (mm? ' ' + mm + ' мин' : '') + ' назад';
+  const d = Math.floor(h / 24);
+  const hh = h % 24;
+  if (d < 7) return d + ' д' + (hh? ' ' + hh + ' ч' : '') + ' назад';
+  const w = Math.floor(d / 7);
+  const dd = d % 7;
+  return w + ' нед' + (dd? ' ' + dd + ' д' : '') + ' назад';
+}
+
+function uniqKey(it){ return it.url || (it.channel + '|' + it.title); }
+
+function ensureAgeSeconds(it){
+  if (typeof it.age_seconds === 'number') return it.age_seconds;
+  if (it.published_at_utc){
+    const t = Date.parse(it.published_at_utc);
+    if (!Number.isNaN(t)){
+      return Math.max(0, Math.floor((Date.now() - t)/1000));
+    }
+  }
+  return 9e15; // очень старое, если нет данных
+}
+
+async function load(){
+  try{
+    const res = await fetch('latest_results.json?ts=' + Date.now(), {cache:'no-store'});
+    if(!res.ok) throw new Error(res.status);
+    const data = await res.json();
+    const items = (data.items || []).slice();
+
+    // сортируем: самые свежие (меньше age_seconds) — сверху
+    items.sort((a,b) => ensureAgeSeconds(a) - ensureAgeSeconds(b));
+
+    // сравнение с предыдущим набором (для звука)
+    const prevStr = localStorage.getItem('seen_urls') || '[]';
+    const prev = new Set(JSON.parse(prevStr));
+    let hasNew = false;
+    const nowSet = [];
+
+    list.innerHTML = '';
+    items.forEach((it) => {
+      const key = uniqKey(it);
+      nowSet.push(key);
+      if(!prev.has(key)) hasNew = true;
+
+      const ageSec = ensureAgeSeconds(it);
+
+      const div = document.createElement('div');
+      div.className = 'card';
+      const a = document.createElement('a'); a.href = it.url; a.textContent = it.title; a.target = '_blank'; a.rel='noopener';
+      div.innerHTML = '<div class="ch">[' + (it.channel || '') + ']</div>';
+      const p = document.createElement('div'); p.className = 'title';
+      p.appendChild(a); div.appendChild(p);
+      const age = document.createElement('div'); age.className='age';
+      age.textContent = formatAge(ageSec);
+      div.appendChild(age);
+      list.appendChild(div);
+    });
+    localStorage.setItem('seen_urls', JSON.stringify(nowSet.slice(0,1000)));
+
+    const gen = data.generated_at_utc ? new Date(data.generated_at_utc) : new Date();
+    statusEl.textContent = 'Обновлено: ' + gen.toLocaleString() + ' • элементов: ' + items.length;
+    if(hasNew){ beep(); }
+  }catch(e){
+    statusEl.textContent = 'Ошибка загрузки: ' + e.message;
+  }
+}
+
+function startTimer(){
+  const seconds = Math.max(5, Math.min(120, parseInt((periodInp.value||'10'),10)));
+  if (everySpan) everySpan.textContent = String(seconds);
+  if(timer) clearInterval(timer);
+  timer = setInterval(load, seconds * 1000);
+}
+
+btn.addEventListener('click', load);
+periodInp.addEventListener('change', startTimer);
+
+startTimer();
+load();
+</script>
+</body>
+</html>
