@@ -1,13 +1,139 @@
 {
-  "generated_at_utc": "2025-08-11T21:02:54.197388+00:00",
-  "hours_window": 4,
+  "generated_at_utc": "2025-08-11T21:09:01.208458+00:00",
+  "hours_window": 12,
   "items": [
+    {
+      "channel": "EugeneSagaz",
+      "title": "g ranny4 5",
+      "url": "https://www.youtube.com/watch?v=1SkqDcFpW2w",
+      "published_at_utc": "2025-08-11T13:30:14+00:00",
+      "age_seconds": 27504
+    },
+    {
+      "channel": "SHIMOROSHOW",
+      "title": "BATTLEFIELD 6 УДИВЛЯЕТ! - НАШЕЛ ИМБА ОРУЖИЕ! - RTX 4090 МОЛОДЕЦ!",
+      "url": "https://www.youtube.com/watch?v=bRzYis7yVyk",
+      "published_at_utc": "2025-08-11T16:04:56+00:00",
+      "age_seconds": 18223
+    },
     {
       "channel": "EdisonPts",
       "title": "Я ПРИРУЧИЛ СОБАК ЧТОБЫ ВЫКОПАТЬ СЕМЕНА ВСЕХ РАСТЕНИЙ В GROW A GARDEN В МАЙНКРАФТ!",
       "url": "https://www.youtube.com/watch?v=QJePXcmptzk",
       "published_at_utc": "2025-08-11T17:06:35+00:00",
-      "age_seconds": 14158
+      "age_seconds": 14525
+    },
+    {
+      "channel": "Recrent",
+      "title": "ИДЕАЛЬНОЕ ОРУЖИЕ ДЛЯ БАТЛ РОЯЛЯ BF6",
+      "url": "https://www.youtube.com/watch?v=kKJ49QBZXT8",
+      "published_at_utc": "2025-08-11T15:00:14+00:00",
+      "age_seconds": 22107
+    },
+    {
+      "channel": "Kuplinov ► Play",
+      "title": "НОВАЯ МАФИЯ ► Mafia: The Old Country #1",
+      "url": "https://www.youtube.com/watch?v=s5fFSi3L2s4",
+      "published_at_utc": "2025-08-11T15:01:38+00:00",
+      "age_seconds": 22023
+    },
+    {
+      "channel": "FixEye - Роблокс",
+      "title": "Затроллил Игрока в Grow a Garden.. АНИМАЦИЯ 😱 | Фиксай #shorts",
+      "url": "https://www.youtube.com/shorts/Wth4os0So3Y",
+      "published_at_utc": "2025-08-11T12:21:21+00:00",
+      "age_seconds": 31643
+    },
+    {
+      "channel": "Майни",
+      "title": "САМАЯ СЛОЖНАЯ ИГРА ДЛЯ ВТОРОКЛАШЕК... ► leafxup | Реакция",
+      "url": "https://www.youtube.com/watch?v=te0DxYCyqrE",
+      "published_at_utc": "2025-08-11T13:01:44+00:00",
+      "age_seconds": 29221
+    },
+    {
+      "channel": "Майни",
+      "title": "Сектантское аниме ► Solek ( Солек ) | Реакция",
+      "url": "https://www.youtube.com/watch?v=FFMo67n0Uy4",
+      "published_at_utc": "2025-08-11T11:00:32+00:00",
+      "age_seconds": 36493
+    },
+    {
+      "channel": "Компот",
+      "title": "Я СТАЛ СУДЬЁЙ В ДЕРЕВНЕ ЖИТЕЛЕЙ В МАЙНКРАФТ | Компот Minecraft",
+      "url": "https://www.youtube.com/watch?v=yaz9VHbIH98",
+      "published_at_utc": "2025-08-11T12:01:50+00:00",
+      "age_seconds": 32818
+    },
+    {
+      "channel": "Джел",
+      "title": "УКРАЛ ТУРБО-ТАЧКИ НА НЕОБИТАЕМОМ ОСТРОВЕ ЗА 180 СЕК! БИТВА ВОРОВ В ГТА 5 ОНЛАЙН | ЖЕСТКИЕ ИСПЫТАНИЯ",
+      "url": "https://www.youtube.com/watch?v=O1Uo7zmSdY8",
+      "published_at_utc": "2025-08-11T11:00:45+00:00",
+      "age_seconds": 36486
+    },
+    {
+      "channel": "MrLololoshka (Роман Фильченков)",
+      "title": "Lp. Точка Невозврата #100 КОНФЛИКТ ИНТЕРЕСОВ [Точка Невозврата] • Майнкрафт",
+      "url": "https://www.youtube.com/watch?v=IEgxW4mQNzU",
+      "published_at_utc": "2025-08-11T12:00:37+00:00",
+      "age_seconds": 32895
+    },
+    {
+      "channel": "ГЛЕНТ",
+      "title": "МИНУС 90°! САМОЕ ХОЛОДНОЕ МЕСТО НА ЗЕМЛЕ 🥶",
+      "url": "https://www.youtube.com/shorts/sxUzngkcmcA",
+      "published_at_utc": "2025-08-11T12:01:45+00:00",
+      "age_seconds": 32830
+    },
+    {
+      "channel": "Глеб Рандалайнен",
+      "title": "Таня Гомельская и Ее Искусство 👩‍🎨",
+      "url": "https://www.youtube.com/shorts/C55pmkskZ28",
+      "published_at_utc": "2025-08-11T12:24:14+00:00",
+      "age_seconds": 31484
+    },
+    {
+      "channel": "Глеб Рандалайнен",
+      "title": "Кролик 🐏 Голландский Баран",
+      "url": "https://www.youtube.com/shorts/sebltTqPSfk",
+      "published_at_utc": "2025-08-11T09:57:49+00:00",
+      "age_seconds": 40269
+    },
+    {
+      "channel": "ВЛАДУС",
+      "title": "КАМУФЛЯЖНЫЕ ПРЯТКИ В ИГРЕ В КАЛЬМАРА 3! МАЙНКРАФТ",
+      "url": "https://www.youtube.com/watch?v=pE3Sc88ltwE",
+      "published_at_utc": "2025-08-11T13:24:09+00:00",
+      "age_seconds": 27890
+    },
+    {
+      "channel": "SteamTim",
+      "title": "🔥 Я СДЕЛАЛ ВСЮ МЕГА ЕДУ РАДИ СЕКРЕТА... в Grow A Garden | Роблокс",
+      "url": "https://www.youtube.com/watch?v=0VuwGJ_FIQ8",
+      "published_at_utc": "2025-08-11T13:39:18+00:00",
+      "age_seconds": 26982
+    },
+    {
+      "channel": "Опросный",
+      "title": "Что будет с вами уже на второе сентября?",
+      "url": "https://www.youtube.com/shorts/k9eaUdRx6Wg",
+      "published_at_utc": "2025-08-11T16:29:14+00:00",
+      "age_seconds": 16786
+    },
+    {
+      "channel": "Опросный",
+      "title": "Что происходит на праздник День города?",
+      "url": "https://www.youtube.com/shorts/orsJlDYLkAM",
+      "published_at_utc": "2025-08-11T13:33:24+00:00",
+      "age_seconds": 27336
+    },
+    {
+      "channel": "Опросный",
+      "title": "Жизненная ситуация в школьной столовке?",
+      "url": "https://www.youtube.com/shorts/KHwPrQD1GjE",
+      "published_at_utc": "2025-08-11T10:28:30+00:00",
+      "age_seconds": 38430
     }
   ]
 }
