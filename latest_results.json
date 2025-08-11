@@ -1,27 +1,20 @@
 {
-  "generated_at_utc": "2025-08-11T20:02:54.034235+00:00",
+  "generated_at_utc": "2025-08-11T20:07:53.854705+00:00",
   "hours_window": 4,
   "items": [
-    {
-      "channel": "SHIMOROSHOW",
-      "title": "BATTLEFIELD 6 УДИВЛЯЕТ! - НАШЕЛ ИМБА ОРУЖИЕ! - RTX 4090 МОЛОДЕЦ!",
-      "url": "https://www.youtube.com/watch?v=bRzYis7yVyk",
-      "published_at_utc": "2025-08-11T16:04:56+00:00",
-      "age_seconds": 14256
-    },
     {
       "channel": "EdisonPts",
       "title": "Я ПРИРУЧИЛ СОБАК ЧТОБЫ ВЫКОПАТЬ СЕМЕНА ВСЕХ РАСТЕНИЙ В GROW A GARDEN В МАЙНКРАФТ!",
       "url": "https://www.youtube.com/watch?v=QJePXcmptzk",
       "published_at_utc": "2025-08-11T17:06:35+00:00",
-      "age_seconds": 10558
+      "age_seconds": 10858
     },
     {
       "channel": "Опросный",
       "title": "Что будет с вами уже на второе сентября?",
       "url": "https://www.youtube.com/shorts/k9eaUdRx6Wg",
       "published_at_utc": "2025-08-11T16:29:14+00:00",
-      "age_seconds": 12819
+      "age_seconds": 13119
     }
   ]
 }
