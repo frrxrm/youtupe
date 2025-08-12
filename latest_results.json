@@ -1,41 +1,48 @@
 {
-  "generated_at_utc": "2025-08-12T18:44:46.702807+00:00",
+  "generated_at_utc": "2025-08-12T18:48:47.070642+00:00",
   "hours_window": 1,
   "items": [
+    {
+      "channel": "Авто.Бот",
+      "title": "Как Порше разорвал Ламбу и Феру 🤯",
+      "url": "https://www.youtube.com/shorts/RIHgtNwQwW4",
+      "published_at_utc": "2025-08-12T18:41:42+00:00",
+      "age_seconds": 411
+    },
+    {
+      "channel": "Никита Нестеров",
+      "title": "Рома, что ты делаешь?",
+      "url": "https://www.youtube.com/shorts/rjzLMRJZ9BQ",
+      "published_at_utc": "2025-08-12T18:32:25+00:00",
+      "age_seconds": 981
+    },
     {
       "channel": "Wylsacom",
       "title": "В РОССИИ БЛОКИРУЮТ TELEGRAM и WHATSAPP. ЧТО ПРОИСХОДИТ?",
       "url": "https://www.youtube.com/watch?v=Ye4VzLvBQCQ",
       "published_at_utc": "2025-08-12T18:16:58+00:00",
-      "age_seconds": 1639
+      "age_seconds": 1880
     },
     {
       "channel": "Max Maximov",
       "title": "Новые кроссовки",
       "url": "https://www.youtube.com/shorts/m6idONFR1Nk",
       "published_at_utc": "2025-08-12T18:16:08+00:00",
-      "age_seconds": 1680
+      "age_seconds": 1920
     },
     {
       "channel": "ЛАЙФСТОРИ",
       "title": "Дикая схватка на канате с хищницей",
       "url": "https://www.youtube.com/shorts/EKOfiBDkRSg",
       "published_at_utc": "2025-08-12T18:00:10+00:00",
-      "age_seconds": 2674
+      "age_seconds": 2914
     },
     {
       "channel": "Max Maximov",
       "title": "Пикси побрили",
       "url": "https://www.youtube.com/shorts/EHXPkxFbxHg",
       "published_at_utc": "2025-08-12T17:52:14+00:00",
-      "age_seconds": 3114
-    },
-    {
-      "channel": "TreshFilms",
-      "title": "Институт супер героев 🦸‍♂️ #фильм #сериал #моменты #shorts",
-      "url": "https://www.youtube.com/shorts/CqKWR2Pa2g8",
-      "published_at_utc": "2025-08-12T17:46:34+00:00",
-      "age_seconds": 3469
+      "age_seconds": 3354
     }
   ]
 }
