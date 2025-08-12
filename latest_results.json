@@ -1,27 +1,20 @@
 {
-  "generated_at_utc": "2025-08-12T17:42:27.536500+00:00",
+  "generated_at_utc": "2025-08-12T17:43:50.626150+00:00",
   "hours_window": 1,
   "items": [
-    {
-      "channel": "MovieTop",
-      "title": "GOAT: Мечтай по крупному #мультик #фильмы #мультфильм",
-      "url": "https://www.youtube.com/shorts/a1IS5SuZQpY",
-      "published_at_utc": "2025-08-12T17:41:35+00:00",
-      "age_seconds": 3
-    },
     {
       "channel": "Amitesh",
       "title": "Как появились масти и что они значат? #амитеш #карты #история",
       "url": "https://www.youtube.com/shorts/ddhX9ZnQXFI",
       "published_at_utc": "2025-08-12T17:20:24+00:00",
-      "age_seconds": 1304
+      "age_seconds": 1390
     },
     {
       "channel": "МайорКрафт",
       "title": "Хорошо знать чужой язык #фильм #сериал #моменты",
       "url": "https://www.youtube.com/shorts/D1hK5PmLLds",
       "published_at_utc": "2025-08-12T16:45:01+00:00",
-      "age_seconds": 3428
+      "age_seconds": 3514
     }
   ]
 }
