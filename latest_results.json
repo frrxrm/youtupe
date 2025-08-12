@@ -1,13 +1,20 @@
 {
-  "generated_at_utc": "2025-08-12T08:06:24.952962+00:00",
+  "generated_at_utc": "2025-08-12T08:11:25.563884+00:00",
   "hours_window": 12,
   "items": [
+    {
+      "channel": "Глеб Рандалайнен",
+      "title": "Когда Наступила Пятница 🥳",
+      "url": "https://www.youtube.com/shorts/dA2mBS7hftI",
+      "published_at_utc": "2025-08-12T08:05:29+00:00",
+      "age_seconds": 353
+    },
     {
       "channel": "Опросный",
       "title": "Жизненная ситуация, когда взял у друга 10 руб в долг до завтра?",
       "url": "https://www.youtube.com/shorts/lOrSFObkdUk",
       "published_at_utc": "2025-08-12T07:11:05+00:00",
-      "age_seconds": 3319
+      "age_seconds": 3620
     }
   ]
 }
