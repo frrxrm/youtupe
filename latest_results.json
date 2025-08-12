@@ -1,20 +1,20 @@
 {
-  "generated_at_utc": "2025-08-12T17:30:20.082911+00:00",
+  "generated_at_utc": "2025-08-12T17:32:21.799325+00:00",
   "hours_window": 1,
   "items": [
+    {
+      "channel": "Amitesh",
+      "title": "Как появились масти и что они значат? #амитеш #карты #история",
+      "url": "https://www.youtube.com/shorts/ddhX9ZnQXFI",
+      "published_at_utc": "2025-08-12T17:20:24+00:00",
+      "age_seconds": 705
+    },
     {
       "channel": "МайорКрафт",
       "title": "Хорошо знать чужой язык #фильм #сериал #моменты",
       "url": "https://www.youtube.com/shorts/D1hK5PmLLds",
       "published_at_utc": "2025-08-12T16:45:01+00:00",
-      "age_seconds": 2708
-    },
-    {
-      "channel": "Enderestories",
-      "title": "Эта лошадь очень любит плавать в воде!",
-      "url": "https://www.youtube.com/shorts/scmP5ibp6QU",
-      "published_at_utc": "2025-08-12T16:30:18+00:00",
-      "age_seconds": 3556
+      "age_seconds": 2829
     }
   ]
 }
