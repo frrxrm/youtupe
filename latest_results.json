@@ -1,34 +1,41 @@
 {
-  "generated_at_utc": "2025-08-12T18:20:46.298864+00:00",
+  "generated_at_utc": "2025-08-12T18:24:50.281182+00:00",
   "hours_window": 1,
   "items": [
+    {
+      "channel": "Wylsacom",
+      "title": "В РОССИИ БЛОКИРУЮТ TELEGRAM и WHATSAPP. ЧТО ПРОИСХОДИТ?",
+      "url": "https://www.youtube.com/watch?v=Ye4VzLvBQCQ",
+      "published_at_utc": "2025-08-12T18:16:58+00:00",
+      "age_seconds": 440
+    },
     {
       "channel": "ЛАЙФСТОРИ",
       "title": "Дикая схватка на канате с хищницей",
       "url": "https://www.youtube.com/shorts/EKOfiBDkRSg",
       "published_at_utc": "2025-08-12T18:00:10+00:00",
-      "age_seconds": 1233
+      "age_seconds": 1477
     },
     {
       "channel": "Max Maximov",
       "title": "Пикси побрили",
       "url": "https://www.youtube.com/shorts/EHXPkxFbxHg",
       "published_at_utc": "2025-08-12T17:52:14+00:00",
-      "age_seconds": 1674
+      "age_seconds": 1915
     },
     {
       "channel": "TreshFilms",
       "title": "Институт супер героев 🦸‍♂️ #фильм #сериал #моменты #shorts",
       "url": "https://www.youtube.com/shorts/CqKWR2Pa2g8",
       "published_at_utc": "2025-08-12T17:46:34+00:00",
-      "age_seconds": 2029
+      "age_seconds": 2269
     },
     {
       "channel": "MovieTop",
       "title": "GOAT: Мечтай по крупному #мультик #фильмы #мультфильм",
       "url": "https://www.youtube.com/shorts/a1IS5SuZQpY",
       "published_at_utc": "2025-08-12T17:41:35+00:00",
-      "age_seconds": 2304
+      "age_seconds": 2544
     }
   ]
 }
