@@ -1,14 +1,7 @@
 {
-  "generated_at_utc": "2025-08-13T22:52:58.230105+00:00",
+  "generated_at_utc": "2025-08-13T22:51:53.825244+00:00",
   "hours_window": 12,
   "items": [
-    {
-      "channel": "Test Channel",
-      "title": "Test publish",
-      "url": "https://youtu.be/TEST1234567890123456",
-      "published_at_utc": "2025-08-14T00:00:00+00:00",
-      "age_seconds": 0
-    },
     {
       "channel": "SASAVOT / НАРЕЗКИ",
       "title": "ГЛЕБ РИСУЕТ ПИКСЕЛЬ-АРТ на КУРСКЕ со ЗРИТЕЛЯМИ | Sasavot",
