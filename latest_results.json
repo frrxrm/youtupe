@@ -1,34 +1,48 @@
 {
-  "generated_at_utc": "2025-08-13T17:16:30.532661+00:00",
+  "generated_at_utc": "2025-08-13T17:19:32.594534+00:00",
   "hours_window": 1,
   "items": [
+    {
+      "channel": "Max Maximov",
+      "title": "Лютые мемы. Мы снова записали дичь!",
+      "url": "https://www.youtube.com/watch?v=niJ7qLVZzik",
+      "published_at_utc": "2025-08-13T17:13:47+00:00",
+      "age_seconds": 316
+    },
+    {
+      "channel": "Авто.Бот",
+      "title": "Топ 5 Ламборгини ценой как самолёт 🤯",
+      "url": "https://www.youtube.com/shorts/MNVLmjcQQQc",
+      "published_at_utc": "2025-08-13T17:10:00+00:00",
+      "age_seconds": 561
+    },
     {
       "channel": "Wylsacom",
       "title": "Очки Xiaomi с нейросетью лучше iPhone!",
       "url": "https://www.youtube.com/watch?v=82EnqodcNbI",
       "published_at_utc": "2025-08-13T17:01:22+00:00",
-      "age_seconds": 886
+      "age_seconds": 1067
     },
     {
       "channel": "Amitesh",
       "title": "Дьявольский броненосец #амитеш #насекомые #природа",
       "url": "https://www.youtube.com/shorts/6SHUNo2kNSo",
       "published_at_utc": "2025-08-13T16:57:22+00:00",
-      "age_seconds": 1135
+      "age_seconds": 1317
     },
     {
       "channel": "MovieTop",
       "title": "13 ЛУЧШИХ ФИЛЬМОВ АВГУСТА 2025, КОТОРЫЕ НЕЛЬЗЯ ПРОПУСТИТЬ",
       "url": "https://www.youtube.com/watch?v=C1pHKSgInxs",
       "published_at_utc": "2025-08-13T16:45:06+00:00",
-      "age_seconds": 1848
+      "age_seconds": 2029
     },
     {
       "channel": "QuickIQ",
       "title": "Безумные факты и немного науки #short #shorts #факты #наука #истории #on #rek #rge #fyp #foryou",
       "url": "https://www.youtube.com/shorts/d1ggXuGtOQ8",
       "published_at_utc": "2025-08-13T16:30:18+00:00",
-      "age_seconds": 2756
+      "age_seconds": 2938
     }
   ]
 }
