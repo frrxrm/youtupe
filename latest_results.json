@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-08-13T18:04:30.583606+00:00",
+  "generated_at_utc": "2025-08-13T18:07:28.502122+00:00",
   "hours_window": 1,
   "items": [
     {
@@ -7,56 +7,70 @@
       "title": "Пикси и крокодил",
       "url": "https://www.youtube.com/shorts/ecTVZ6XXuSE",
       "published_at_utc": "2025-08-13T18:02:33+00:00",
-      "age_seconds": 88
+      "age_seconds": 268
+    },
+    {
+      "channel": "ЛАЙФСТОРИ",
+      "title": "Напуганный медведь сбежал от огромного пса",
+      "url": "https://www.youtube.com/shorts/zck-vsxxN10",
+      "published_at_utc": "2025-08-13T18:01:03+00:00",
+      "age_seconds": 383
+    },
+    {
+      "channel": "TreshFilms",
+      "title": "Научил брата бегать 😁 #фильм #сериал #моменты #shorts",
+      "url": "https://www.youtube.com/shorts/0vNkRJw76Mw",
+      "published_at_utc": "2025-08-13T17:49:56+00:00",
+      "age_seconds": 1035
     },
     {
       "channel": "Enderestories",
       "title": "Им в компанию привезли несколько стеклянных шкафов!",
       "url": "https://www.youtube.com/shorts/WiDvCRvTn6I",
       "published_at_utc": "2025-08-13T17:45:00+00:00",
-      "age_seconds": 1131
+      "age_seconds": 1312
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Особенно отличилась вот эта девушка",
       "url": "https://www.youtube.com/shorts/_FlCeyJ_HVo",
       "published_at_utc": "2025-08-13T17:32:01+00:00",
-      "age_seconds": 1934
+      "age_seconds": 2111
     },
     {
       "channel": "WORLD TOP",
       "title": "Она согласилась на ледяную ванну и пожалела 😮",
       "url": "https://www.youtube.com/shorts/DfKc8uCavcI",
       "published_at_utc": "2025-08-13T17:25:00+00:00",
-      "age_seconds": 2369
+      "age_seconds": 2547
     },
     {
       "channel": "Max Maximov",
       "title": "Акула на шоу талантов",
       "url": "https://www.youtube.com/shorts/jJs8kDBV_QU",
       "published_at_utc": "2025-08-13T17:22:40+00:00",
-      "age_seconds": 2481
+      "age_seconds": 2661
     },
     {
       "channel": "Margaritka",
       "title": "Рисует на ноге 😄😄",
       "url": "https://www.youtube.com/shorts/1wZv0Oo8kkM",
       "published_at_utc": "2025-08-13T17:18:56+00:00",
-      "age_seconds": 2713
+      "age_seconds": 2890
     },
     {
       "channel": "Max Maximov",
       "title": "Лютые мемы. Мы снова записали дичь!",
       "url": "https://www.youtube.com/watch?v=niJ7qLVZzik",
       "published_at_utc": "2025-08-13T17:13:47+00:00",
-      "age_seconds": 3014
+      "age_seconds": 3194
     },
     {
       "channel": "Авто.Бот",
       "title": "Топ 5 Ламборгини ценой как самолёт 🤯",
       "url": "https://www.youtube.com/shorts/MNVLmjcQQQc",
       "published_at_utc": "2025-08-13T17:10:00+00:00",
-      "age_seconds": 3261
+      "age_seconds": 3438
     }
   ]
 }
