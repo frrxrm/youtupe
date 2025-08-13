@@ -1,34 +1,41 @@
 {
-  "generated_at_utc": "2025-08-13T11:04:28.999205+00:00",
+  "generated_at_utc": "2025-08-13T11:07:30.101696+00:00",
   "hours_window": 1,
   "items": [
+    {
+      "channel": "Короче, новости",
+      "title": "Угонщик Возвращает Самолёт Отремонтированным",
+      "url": "https://www.youtube.com/shorts/pQIAHXiwwkc",
+      "published_at_utc": "2025-08-13T11:01:21+00:00",
+      "age_seconds": 345
+    },
     {
       "channel": "TreshFilms",
       "title": "Выпил воду для брата 😁 #фильм #сериал #моменты #shorts",
       "url": "https://www.youtube.com/shorts/Sa2B86-nfD8",
       "published_at_utc": "2025-08-13T10:45:06+00:00",
-      "age_seconds": 1146
+      "age_seconds": 1327
     },
     {
       "channel": "МайорКрафт",
       "title": "Когда твой зять адвокат не очень #фильм #сериал #моменты",
       "url": "https://www.youtube.com/shorts/KsHAvcqPKsc",
       "published_at_utc": "2025-08-13T10:45:02+00:00",
-      "age_seconds": 1155
+      "age_seconds": 1337
     },
     {
       "channel": "WORLD TOP",
       "title": "Сколько нужно девушке вещей на неделю 😮",
       "url": "https://www.youtube.com/shorts/VqXlXam-UNo",
       "published_at_utc": "2025-08-13T10:30:19+00:00",
-      "age_seconds": 2048
+      "age_seconds": 2229
     },
     {
       "channel": "Короче, новости",
       "title": "Россия НЕДО Заблокирует WhatsApp",
       "url": "https://www.youtube.com/shorts/jVXC_ym1ka8",
       "published_at_utc": "2025-08-13T10:17:28+00:00",
-      "age_seconds": 2796
+      "age_seconds": 2978
     }
   ]
 }
