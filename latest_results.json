@@ -1,48 +1,48 @@
 {
-  "generated_at_utc": "2025-08-13T14:22:39.997505+00:00",
+  "generated_at_utc": "2025-08-13T14:25:29.524551+00:00",
   "hours_window": 1,
   "items": [
+    {
+      "channel": "Margaritka",
+      "title": "Живет в медведе 😄😄",
+      "url": "https://www.youtube.com/shorts/eTDDTJFtUfA",
+      "published_at_utc": "2025-08-13T14:13:44+00:00",
+      "age_seconds": 682
+    },
     {
       "channel": "Enderestories",
       "title": "Парень точно обзавелся новыми поклонниками! / Create: @denvlara",
       "url": "https://www.youtube.com/shorts/zX0aDUyXTng",
       "published_at_utc": "2025-08-13T14:01:27+00:00",
-      "age_seconds": 1224
+      "age_seconds": 1405
     },
     {
       "channel": "ЛАЙФСТОРИ",
       "title": "Сбил мотоциклиста и устроил побег",
       "url": "https://www.youtube.com/shorts/S0ijxSQRMLA",
       "published_at_utc": "2025-08-13T14:00:44+00:00",
-      "age_seconds": 1314
+      "age_seconds": 1483
     },
     {
       "channel": "Гохисыч",
       "title": "Как колесо помогает чинить прицеп #shorts",
       "url": "https://www.youtube.com/shorts/ALPkqZxS3yE",
       "published_at_utc": "2025-08-13T14:00:20+00:00",
-      "age_seconds": 1293
+      "age_seconds": 1473
     },
     {
       "channel": "WORLD TOP",
       "title": "Они должно не могли обогнать уборочную машину 😮",
       "url": "https://www.youtube.com/shorts/EawwB7nt29w",
       "published_at_utc": "2025-08-13T14:00:20+00:00",
-      "age_seconds": 1338
+      "age_seconds": 1508
     },
     {
       "channel": "Amitesh",
       "title": "Лента Мёбиуса #амитеш #геометрия #фигура",
       "url": "https://www.youtube.com/shorts/LmNrPMwLyys",
       "published_at_utc": "2025-08-13T13:36:11+00:00",
-      "age_seconds": 2774
-    },
-    {
-      "channel": "ДУШНИЛА",
-      "title": "ДУШНИЛА № 84",
-      "url": "https://www.youtube.com/shorts/rN9QzXq0NuA",
-      "published_at_utc": "2025-08-13T13:25:10+00:00",
-      "age_seconds": 3436
+      "age_seconds": 2945
     }
   ]
 }
