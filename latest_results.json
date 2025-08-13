@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-08-13T18:58:29.275807+00:00",
+  "generated_at_utc": "2025-08-13T19:01:29.302815+00:00",
   "hours_window": 1,
   "items": [
     {
@@ -7,28 +7,21 @@
       "title": "Лютый тортик",
       "url": "https://www.youtube.com/shorts/MWKvGqoU9-4",
       "published_at_utc": "2025-08-13T18:38:42+00:00",
-      "age_seconds": 1159
+      "age_seconds": 1340
     },
     {
       "channel": "Max Maximov",
       "title": "Случай в курятнике",
       "url": "https://www.youtube.com/shorts/R2W9cI2f81o",
       "published_at_utc": "2025-08-13T18:29:05+00:00",
-      "age_seconds": 1736
+      "age_seconds": 1917
     },
     {
       "channel": "Max Maximov",
       "title": "Пикси и крокодил",
       "url": "https://www.youtube.com/shorts/ecTVZ6XXuSE",
       "published_at_utc": "2025-08-13T18:02:33+00:00",
-      "age_seconds": 3328
-    },
-    {
-      "channel": "ЛАЙФСТОРИ",
-      "title": "Напуганный медведь сбежал от огромного пса",
-      "url": "https://www.youtube.com/shorts/zck-vsxxN10",
-      "published_at_utc": "2025-08-13T18:01:03+00:00",
-      "age_seconds": 3444
+      "age_seconds": 3509
     }
   ]
 }
