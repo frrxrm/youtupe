@@ -1,34 +1,34 @@
 {
-  "generated_at_utc": "2025-08-13T17:10:32.793557+00:00",
+  "generated_at_utc": "2025-08-13T17:13:30.585091+00:00",
   "hours_window": 1,
   "items": [
+    {
+      "channel": "Авто.Бот",
+      "title": "Топ 5 Ламборгини ценой как самолёт 🤯",
+      "url": "https://www.youtube.com/shorts/MNVLmjcQQQc",
+      "published_at_utc": "2025-08-13T17:10:00+00:00",
+      "age_seconds": 200
+    },
     {
       "channel": "MovieTop",
       "title": "13 ЛУЧШИХ ФИЛЬМОВ АВГУСТА 2025, КОТОРЫЕ НЕЛЬЗЯ ПРОПУСТИТЬ",
       "url": "https://www.youtube.com/watch?v=C1pHKSgInxs",
       "published_at_utc": "2025-08-13T16:45:06+00:00",
-      "age_seconds": 1489
+      "age_seconds": 1669
     },
     {
       "channel": "QuickIQ",
       "title": "Безумные факты и немного науки #short #shorts #факты #наука #истории #on #rek #rge #fyp #foryou",
       "url": "https://www.youtube.com/shorts/d1ggXuGtOQ8",
       "published_at_utc": "2025-08-13T16:30:18+00:00",
-      "age_seconds": 2398
+      "age_seconds": 2577
     },
     {
       "channel": "Наташа и Вова",
       "title": "Расставь Skittles 🥤 #games #игры #challenge #fungames #play",
       "url": "https://www.youtube.com/shorts/LRHa7RRw6M0",
       "published_at_utc": "2025-08-13T16:16:17+00:00",
-      "age_seconds": 3252
-    },
-    {
-      "channel": "Enderestories",
-      "title": "А ваш обидчик даже об этом не узнает!",
-      "url": "https://www.youtube.com/shorts/rNQqctsb4Y8",
-      "published_at_utc": "2025-08-13T16:10:02+00:00",
-      "age_seconds": 3590
+      "age_seconds": 3430
     }
   ]
 }
