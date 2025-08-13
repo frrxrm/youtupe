@@ -1,48 +1,55 @@
 {
-  "generated_at_utc": "2025-08-13T19:25:29.538133+00:00",
+  "generated_at_utc": "2025-08-13T19:28:30.468299+00:00",
   "hours_window": 1,
   "items": [
+    {
+      "channel": "EdisonPts",
+      "title": "ПРОХОДИМ ОБНОВЛЕНИЕ PEAK С БИОМОМ ПУСТЫНЯ И ТОРНАДО",
+      "url": "https://www.youtube.com/watch?v=Eh8MHhumrYk",
+      "published_at_utc": "2025-08-13T19:19:32+00:00",
+      "age_seconds": 515
+    },
     {
       "channel": "Сергей Милушкин",
       "title": "Знак чтобы не войти не в ту дверь",
       "url": "https://www.youtube.com/shorts/uumNS7MyR-M",
       "published_at_utc": "2025-08-13T19:15:44+00:00",
-      "age_seconds": 569
+      "age_seconds": 751
     },
     {
       "channel": "Авто.Бот",
       "title": "Нагнул Бугатти создав спорткар быстрее 💪",
       "url": "https://www.youtube.com/shorts/6XFjdbJ3INw",
       "published_at_utc": "2025-08-13T19:15:09+00:00",
-      "age_seconds": 610
+      "age_seconds": 791
     },
     {
       "channel": "Max Maximov",
       "title": "Отец или сын",
       "url": "https://www.youtube.com/shorts/FqIDQXzYVeM",
       "published_at_utc": "2025-08-13T19:04:35+00:00",
-      "age_seconds": 1226
+      "age_seconds": 1406
     },
     {
       "channel": "Enderestories",
       "title": "Их макет должен выдержать испытание стихией! / Create: @engineeringjags",
       "url": "https://www.youtube.com/shorts/WSPQR8t6G3A",
       "published_at_utc": "2025-08-13T18:50:01+00:00",
-      "age_seconds": 2090
+      "age_seconds": 2271
     },
     {
       "channel": "Max Maximov",
       "title": "Лютый тортик",
       "url": "https://www.youtube.com/shorts/MWKvGqoU9-4",
       "published_at_utc": "2025-08-13T18:38:42+00:00",
-      "age_seconds": 2779
+      "age_seconds": 2959
     },
     {
       "channel": "Max Maximov",
       "title": "Случай в курятнике",
       "url": "https://www.youtube.com/shorts/R2W9cI2f81o",
       "published_at_utc": "2025-08-13T18:29:05+00:00",
-      "age_seconds": 3356
+      "age_seconds": 3536
     }
   ]
 }
