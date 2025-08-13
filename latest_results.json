@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-08-13T10:22:27.683193+00:00",
+  "generated_at_utc": "2025-08-13T10:25:30.513091+00:00",
   "hours_window": 1,
   "items": [
     {
@@ -7,28 +7,35 @@
       "title": "Кто украл золото?",
       "url": "https://www.youtube.com/shorts/TVotjwtswUY",
       "published_at_utc": "2025-08-13T10:00:53+00:00",
-      "age_seconds": 1266
+      "age_seconds": 1446
     },
     {
       "channel": "Смешновости",
       "title": "Стрижет газон 😲 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/6iZ3KFJCaN0",
       "published_at_utc": "2025-08-13T10:00:11+00:00",
-      "age_seconds": 1324
+      "age_seconds": 1505
+    },
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Самое мистическое видео",
+      "url": "https://www.youtube.com/shorts/oGECfzlnlLc",
+      "published_at_utc": "2025-08-13T09:59:02+00:00",
+      "age_seconds": 1578
     },
     {
       "channel": "i11ushenka",
       "title": "Когда он хочет пить, а ты - жить",
       "url": "https://www.youtube.com/shorts/otPhDImiKXo",
       "published_at_utc": "2025-08-13T09:52:56+00:00",
-      "age_seconds": 1759
+      "age_seconds": 1941
     },
     {
       "channel": "MovieTop",
       "title": "#фильмы #комедия #кино",
       "url": "https://www.youtube.com/shorts/gQLhfvgR_xk",
       "published_at_utc": "2025-08-13T09:43:46+00:00",
-      "age_seconds": 2288
+      "age_seconds": 2469
     }
   ]
 }
