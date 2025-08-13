@@ -1,41 +1,55 @@
 {
-  "generated_at_utc": "2025-08-13T17:22:33.299030+00:00",
+  "generated_at_utc": "2025-08-13T17:25:30.945009+00:00",
   "hours_window": 1,
   "items": [
+    {
+      "channel": "Margaritka",
+      "title": "Рисует на ноге 😄😄",
+      "url": "https://www.youtube.com/shorts/1wZv0Oo8kkM",
+      "published_at_utc": "2025-08-13T17:18:56+00:00",
+      "age_seconds": 373
+    },
+    {
+      "channel": "Max Maximov",
+      "title": "Лютые мемы. Мы снова записали дичь!",
+      "url": "https://www.youtube.com/watch?v=niJ7qLVZzik",
+      "published_at_utc": "2025-08-13T17:13:47+00:00",
+      "age_seconds": 675
+    },
     {
       "channel": "Авто.Бот",
       "title": "Топ 5 Ламборгини ценой как самолёт 🤯",
       "url": "https://www.youtube.com/shorts/MNVLmjcQQQc",
       "published_at_utc": "2025-08-13T17:10:00+00:00",
-      "age_seconds": 741
+      "age_seconds": 921
     },
     {
       "channel": "Wylsacom",
       "title": "Очки Xiaomi с нейросетью лучше iPhone!",
       "url": "https://www.youtube.com/watch?v=82EnqodcNbI",
       "published_at_utc": "2025-08-13T17:01:22+00:00",
-      "age_seconds": 1247
+      "age_seconds": 1428
     },
     {
       "channel": "Amitesh",
       "title": "Дьявольский броненосец #амитеш #насекомые #природа",
       "url": "https://www.youtube.com/shorts/6SHUNo2kNSo",
       "published_at_utc": "2025-08-13T16:57:22+00:00",
-      "age_seconds": 1496
+      "age_seconds": 1677
     },
     {
       "channel": "MovieTop",
       "title": "13 ЛУЧШИХ ФИЛЬМОВ АВГУСТА 2025, КОТОРЫЕ НЕЛЬЗЯ ПРОПУСТИТЬ",
       "url": "https://www.youtube.com/watch?v=C1pHKSgInxs",
       "published_at_utc": "2025-08-13T16:45:06+00:00",
-      "age_seconds": 2210
+      "age_seconds": 2390
     },
     {
       "channel": "QuickIQ",
       "title": "Безумные факты и немного науки #short #shorts #факты #наука #истории #on #rek #rge #fyp #foryou",
       "url": "https://www.youtube.com/shorts/d1ggXuGtOQ8",
       "published_at_utc": "2025-08-13T16:30:18+00:00",
-      "age_seconds": 3118
+      "age_seconds": 3299
     }
   ]
 }
