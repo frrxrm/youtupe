@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-08-13T18:43:28.545596+00:00",
+  "generated_at_utc": "2025-08-13T18:46:29.856372+00:00",
   "hours_window": 1,
   "items": [
     {
@@ -7,42 +7,35 @@
       "title": "Лютый тортик",
       "url": "https://www.youtube.com/shorts/MWKvGqoU9-4",
       "published_at_utc": "2025-08-13T18:38:42+00:00",
-      "age_seconds": 259
+      "age_seconds": 440
     },
     {
       "channel": "Max Maximov",
       "title": "Случай в курятнике",
       "url": "https://www.youtube.com/shorts/R2W9cI2f81o",
       "published_at_utc": "2025-08-13T18:29:05+00:00",
-      "age_seconds": 836
+      "age_seconds": 1017
     },
     {
       "channel": "Max Maximov",
       "title": "Пикси и крокодил",
       "url": "https://www.youtube.com/shorts/ecTVZ6XXuSE",
       "published_at_utc": "2025-08-13T18:02:33+00:00",
-      "age_seconds": 2428
+      "age_seconds": 2609
     },
     {
       "channel": "ЛАЙФСТОРИ",
       "title": "Напуганный медведь сбежал от огромного пса",
       "url": "https://www.youtube.com/shorts/zck-vsxxN10",
       "published_at_utc": "2025-08-13T18:01:03+00:00",
-      "age_seconds": 2543
+      "age_seconds": 2724
     },
     {
       "channel": "TreshFilms",
       "title": "Научил брата бегать 😁 #фильм #сериал #моменты #shorts",
       "url": "https://www.youtube.com/shorts/0vNkRJw76Mw",
       "published_at_utc": "2025-08-13T17:49:56+00:00",
-      "age_seconds": 3196
-    },
-    {
-      "channel": "Enderestories",
-      "title": "Им в компанию привезли несколько стеклянных шкафов!",
-      "url": "https://www.youtube.com/shorts/WiDvCRvTn6I",
-      "published_at_utc": "2025-08-13T17:45:00+00:00",
-      "age_seconds": 3472
+      "age_seconds": 3376
     }
   ]
 }
