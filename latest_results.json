@@ -1,27 +1,34 @@
 {
-  "generated_at_utc": "2025-08-13T08:13:27.457227+00:00",
+  "generated_at_utc": "2025-08-13T08:16:33.617428+00:00",
   "hours_window": 1,
   "items": [
+    {
+      "channel": "KinoLayk",
+      "title": "Необычная дыня с живым лицом",
+      "url": "https://www.youtube.com/shorts/2AuLVRx2WTs",
+      "published_at_utc": "2025-08-13T08:05:16+00:00",
+      "age_seconds": 639
+    },
     {
       "channel": "Смешновости",
       "title": "Девочка и мальчики 😂❤️ #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/ntuIfshxG6U",
       "published_at_utc": "2025-08-13T08:00:58+00:00",
-      "age_seconds": 736
+      "age_seconds": 921
     },
     {
       "channel": "Новостной Гусь",
       "title": "Аллигатор захотел охладиться",
       "url": "https://www.youtube.com/shorts/kX9GNco7oN4",
       "published_at_utc": "2025-08-13T08:00:47+00:00",
-      "age_seconds": 732
+      "age_seconds": 917
     },
     {
       "channel": "Гохисыч",
       "title": "Девушка не поняла как пользоваться стоматологическим инструментом #shorts",
       "url": "https://www.youtube.com/shorts/8BKmffJwTfM",
       "published_at_utc": "2025-08-13T07:50:21+00:00",
-      "age_seconds": 1352
+      "age_seconds": 1532
     }
   ]
 }
