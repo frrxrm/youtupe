@@ -1,48 +1,55 @@
 {
-  "generated_at_utc": "2025-08-13T10:34:29.394916+00:00",
+  "generated_at_utc": "2025-08-13T10:37:33.921034+00:00",
   "hours_window": 1,
   "items": [
+    {
+      "channel": "WORLD TOP",
+      "title": "Сколько нужно девушке вещей на неделю 😮",
+      "url": "https://www.youtube.com/shorts/VqXlXam-UNo",
+      "published_at_utc": "2025-08-13T10:30:19+00:00",
+      "age_seconds": 433
+    },
     {
       "channel": "Короче, новости",
       "title": "Россия НЕДО Заблокирует WhatsApp",
       "url": "https://www.youtube.com/shorts/jVXC_ym1ka8",
       "published_at_utc": "2025-08-13T10:17:28+00:00",
-      "age_seconds": 997
+      "age_seconds": 1181
     },
     {
       "channel": "Новостной Гусь",
       "title": "Кто украл золото?",
       "url": "https://www.youtube.com/shorts/TVotjwtswUY",
       "published_at_utc": "2025-08-13T10:00:53+00:00",
-      "age_seconds": 1987
+      "age_seconds": 2166
     },
     {
       "channel": "Смешновости",
       "title": "Стрижет газон 😲 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/6iZ3KFJCaN0",
       "published_at_utc": "2025-08-13T10:00:11+00:00",
-      "age_seconds": 2046
+      "age_seconds": 2229
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Самое мистическое видео",
       "url": "https://www.youtube.com/shorts/oGECfzlnlLc",
       "published_at_utc": "2025-08-13T09:59:02+00:00",
-      "age_seconds": 2117
+      "age_seconds": 2300
     },
     {
       "channel": "i11ushenka",
       "title": "Когда он хочет пить, а ты - жить",
       "url": "https://www.youtube.com/shorts/otPhDImiKXo",
       "published_at_utc": "2025-08-13T09:52:56+00:00",
-      "age_seconds": 2481
+      "age_seconds": 2665
     },
     {
       "channel": "MovieTop",
       "title": "#фильмы #комедия #кино",
       "url": "https://www.youtube.com/shorts/gQLhfvgR_xk",
       "published_at_utc": "2025-08-13T09:43:46+00:00",
-      "age_seconds": 3009
+      "age_seconds": 3189
     }
   ]
 }
