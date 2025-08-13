@@ -1,20 +1,27 @@
 {
-  "generated_at_utc": "2025-08-13T20:37:30.018330+00:00",
+  "generated_at_utc": "2025-08-13T20:40:25.660289+00:00",
   "hours_window": 1,
   "items": [
+    {
+      "channel": "Риса за Творчество",
+      "title": "Лучший клип Майса #9mice #ume #разбор #рзт #рисазатворчество",
+      "url": "https://www.youtube.com/shorts/UmtE8RINuW4",
+      "published_at_utc": "2025-08-13T20:39:00+00:00",
+      "age_seconds": 52
+    },
     {
       "channel": "Никита Нестеров",
       "title": "Работа не должна останавливаться!",
       "url": "https://www.youtube.com/shorts/GOGhrA3rX6Q",
       "published_at_utc": "2025-08-13T20:31:22+00:00",
-      "age_seconds": 367
+      "age_seconds": 543
     },
     {
       "channel": "Enderestories",
       "title": "Ничего не сможет испортить ей вечеринку! / IG: @crunccibycc",
       "url": "https://www.youtube.com/shorts/TEmbtoN6s7U",
       "published_at_utc": "2025-08-13T20:00:36+00:00",
-      "age_seconds": 2176
+      "age_seconds": 2355
     }
   ]
 }
