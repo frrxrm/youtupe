@@ -1,20 +1,27 @@
 {
-  "generated_at_utc": "2025-08-13T15:04:35.349546+00:00",
+  "generated_at_utc": "2025-08-13T15:07:27.652261+00:00",
   "hours_window": 1,
   "items": [
+    {
+      "channel": "kinoluv",
+      "title": "Добро пожаловать в будущее в сериале «Баранкины и камни силы» на Кинопоиске😅",
+      "url": "https://www.youtube.com/shorts/-XMGTHv5Y-I",
+      "published_at_utc": "2025-08-13T15:00:00+00:00",
+      "age_seconds": 429
+    },
     {
       "channel": "Гохисыч",
       "title": "Он вышел на сальто и удивил всех на водной горке #shorts",
       "url": "https://www.youtube.com/shorts/BYzQ9Cbxi5A",
       "published_at_utc": "2025-08-13T14:46:46+00:00",
-      "age_seconds": 1030
+      "age_seconds": 1207
     },
     {
       "channel": "Margaritka",
       "title": "Живет в медведе 😄😄",
       "url": "https://www.youtube.com/shorts/eTDDTJFtUfA",
       "published_at_utc": "2025-08-13T14:13:44+00:00",
-      "age_seconds": 3027
+      "age_seconds": 3202
     }
   ]
 }
