@@ -1,48 +1,48 @@
 {
-  "generated_at_utc": "2025-08-13T13:37:34.281024+00:00",
+  "generated_at_utc": "2025-08-13T13:40:29.997211+00:00",
   "hours_window": 1,
   "items": [
     {
+      "channel": "Amitesh",
+      "title": "Лента Мёбиуса #амитеш #геометрия #фигура",
+      "url": "https://www.youtube.com/shorts/LmNrPMwLyys",
+      "published_at_utc": "2025-08-13T13:36:11+00:00",
+      "age_seconds": 247
+    },
+    {
       "channel": "ДУШНИЛА",
       "title": "ДУШНИЛА № 84",
-      "url": "https://www.youtube.com/watch?v=rN9QzXq0NuA",
+      "url": "https://www.youtube.com/shorts/rN9QzXq0NuA",
       "published_at_utc": "2025-08-13T13:25:10+00:00",
-      "age_seconds": 732
+      "age_seconds": 909
     },
     {
       "channel": "KinoLayk",
       "title": "День рождения превратилось в свадьбу",
       "url": "https://www.youtube.com/shorts/0PHQw9dmpjA",
       "published_at_utc": "2025-08-13T13:19:31+00:00",
-      "age_seconds": 1045
+      "age_seconds": 1225
     },
     {
       "channel": "ГЛЕНТ",
       "title": "ОБЫЧНЫЕ ГОРКИ vs ЭТА СУМАСШЕДШАЯ 💀",
       "url": "https://www.youtube.com/shorts/qLbM8DdZQtE",
       "published_at_utc": "2025-08-13T13:01:41+00:00",
-      "age_seconds": 2144
+      "age_seconds": 2321
     },
     {
       "channel": "Майни",
       "title": "Лютые ПРИКОЛЫ в ИГРАХ ► 1 на МИЛЛИОН: Самые эпичные моменты в играх 🔥 | Реакция",
       "url": "https://www.youtube.com/watch?v=4HB1syyLuV0",
       "published_at_utc": "2025-08-13T13:00:06+00:00",
-      "age_seconds": 2209
+      "age_seconds": 2390
     },
     {
       "channel": "Enderestories",
       "title": "Им очень понравилась идея со съемкой их спуска! / Create: @cleitonjeripasseios",
       "url": "https://www.youtube.com/shorts/pkrSp6_APes",
       "published_at_utc": "2025-08-13T12:48:18+00:00",
-      "age_seconds": 2914
-    },
-    {
-      "channel": "Max Maximov",
-      "title": "Дерзкий птенец",
-      "url": "https://www.youtube.com/shorts/BcNWiqbx4q4",
-      "published_at_utc": "2025-08-13T12:37:28+00:00",
-      "age_seconds": 3573
+      "age_seconds": 3094
     }
   ]
 }
