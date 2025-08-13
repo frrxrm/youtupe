@@ -1,20 +1,34 @@
 {
-  "generated_at_utc": "2025-08-13T19:13:26.724790+00:00",
+  "generated_at_utc": "2025-08-13T19:16:27.725290+00:00",
   "hours_window": 1,
   "items": [
+    {
+      "channel": "Сергей Милушкин",
+      "title": "Знак чтобы не войти не в ту дверь",
+      "url": "https://www.youtube.com/shorts/uumNS7MyR-M",
+      "published_at_utc": "2025-08-13T19:15:44+00:00",
+      "age_seconds": 28
+    },
+    {
+      "channel": "Enderestories",
+      "title": "Их макет должен выдержать испытание стихией! / Create: @engineeringjags",
+      "url": "https://www.youtube.com/shorts/WSPQR8t6G3A",
+      "published_at_utc": "2025-08-13T18:50:01+00:00",
+      "age_seconds": 1550
+    },
     {
       "channel": "Max Maximov",
       "title": "Лютый тортик",
       "url": "https://www.youtube.com/shorts/MWKvGqoU9-4",
       "published_at_utc": "2025-08-13T18:38:42+00:00",
-      "age_seconds": 2058
+      "age_seconds": 2239
     },
     {
       "channel": "Max Maximov",
       "title": "Случай в курятнике",
       "url": "https://www.youtube.com/shorts/R2W9cI2f81o",
       "published_at_utc": "2025-08-13T18:29:05+00:00",
-      "age_seconds": 2635
+      "age_seconds": 2816
     }
   ]
 }
