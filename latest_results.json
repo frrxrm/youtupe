@@ -1,55 +1,62 @@
 {
-  "generated_at_utc": "2025-08-13T17:58:29.438603+00:00",
+  "generated_at_utc": "2025-08-13T18:01:42.373056+00:00",
   "hours_window": 1,
   "items": [
+    {
+      "channel": "TreshFilms",
+      "title": "Научил брата бегать 😁 #фильм #сериал #моменты #shorts",
+      "url": "https://www.youtube.com/shorts/0vNkRJw76Mw",
+      "published_at_utc": "2025-08-13T17:49:56+00:00",
+      "age_seconds": 678
+    },
     {
       "channel": "Сергей Милушкин",
       "title": "Особенно отличилась вот эта девушка",
       "url": "https://www.youtube.com/shorts/_FlCeyJ_HVo",
       "published_at_utc": "2025-08-13T17:32:01+00:00",
-      "age_seconds": 1572
+      "age_seconds": 1754
     },
     {
       "channel": "WORLD TOP",
       "title": "Она согласилась на ледяную ванну и пожалела 😮",
       "url": "https://www.youtube.com/shorts/DfKc8uCavcI",
       "published_at_utc": "2025-08-13T17:25:00+00:00",
-      "age_seconds": 2007
+      "age_seconds": 2201
     },
     {
       "channel": "Max Maximov",
       "title": "Акула на шоу талантов",
       "url": "https://www.youtube.com/shorts/jJs8kDBV_QU",
       "published_at_utc": "2025-08-13T17:22:40+00:00",
-      "age_seconds": 2121
+      "age_seconds": 2302
     },
     {
       "channel": "Margaritka",
       "title": "Рисует на ноге 😄😄",
       "url": "https://www.youtube.com/shorts/1wZv0Oo8kkM",
       "published_at_utc": "2025-08-13T17:18:56+00:00",
-      "age_seconds": 2351
+      "age_seconds": 2533
     },
     {
       "channel": "Max Maximov",
       "title": "Лютые мемы. Мы снова записали дичь!",
       "url": "https://www.youtube.com/watch?v=niJ7qLVZzik",
       "published_at_utc": "2025-08-13T17:13:47+00:00",
-      "age_seconds": 2654
+      "age_seconds": 2835
     },
     {
       "channel": "Авто.Бот",
       "title": "Топ 5 Ламборгини ценой как самолёт 🤯",
       "url": "https://www.youtube.com/shorts/MNVLmjcQQQc",
       "published_at_utc": "2025-08-13T17:10:00+00:00",
-      "age_seconds": 2899
+      "age_seconds": 3081
     },
     {
       "channel": "Wylsacom",
       "title": "Очки Xiaomi с нейросетью лучше iPhone!",
       "url": "https://www.youtube.com/watch?v=82EnqodcNbI",
       "published_at_utc": "2025-08-13T17:01:22+00:00",
-      "age_seconds": 3406
+      "age_seconds": 3588
     }
   ]
 }
