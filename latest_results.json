@@ -1,13 +1,20 @@
 {
-  "generated_at_utc": "2025-08-13T06:10:22.738540+00:00",
+  "generated_at_utc": "2025-08-13T06:13:24.239699+00:00",
   "hours_window": 1,
   "items": [
+    {
+      "channel": "Мир милых животных 🦔",
+      "title": "2 собаки изменили жизнь мужчина навсегда 🐕🥹 #милыеживотные #животные",
+      "url": "https://www.youtube.com/shorts/yZ9fx789ZeA",
+      "published_at_utc": "2025-08-13T06:13:01+00:00",
+      "age_seconds": 4
+    },
     {
       "channel": "Wylsacom",
       "title": "Как открыть окно голосом?",
       "url": "https://www.youtube.com/shorts/8PVv2bOBaoI",
       "published_at_utc": "2025-08-13T05:15:00+00:00",
-      "age_seconds": 3305
+      "age_seconds": 3485
     }
   ]
 }
