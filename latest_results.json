@@ -1,27 +1,27 @@
 {
-  "generated_at_utc": "2025-08-13T07:58:26.312893+00:00",
+  "generated_at_utc": "2025-08-13T08:01:28.373161+00:00",
   "hours_window": 1,
   "items": [
+    {
+      "channel": "Гохисыч",
+      "title": "Девушка не поняла как пользоваться стоматологическим инструментом #shorts",
+      "url": "https://www.youtube.com/shorts/8BKmffJwTfM",
+      "published_at_utc": "2025-08-13T07:50:21+00:00",
+      "age_seconds": 632
+    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Допылесосилась",
       "url": "https://www.youtube.com/shorts/UEACqD8kf58",
       "published_at_utc": "2025-08-13T07:09:50+00:00",
-      "age_seconds": 2903
+      "age_seconds": 3085
     },
     {
       "channel": "Гохисыч",
       "title": "Момент который проверил их дружбу #shorts",
       "url": "https://www.youtube.com/shorts/uTZmRVXIY64",
       "published_at_utc": "2025-08-13T07:05:31+00:00",
-      "age_seconds": 3141
-    },
-    {
-      "channel": "WORLD TOP",
-      "title": "Жене пришла гениальная идея 😮",
-      "url": "https://www.youtube.com/shorts/Rpr3TexaCjA",
-      "published_at_utc": "2025-08-13T07:00:17+00:00",
-      "age_seconds": 3488
+      "age_seconds": 3322
     }
   ]
 }
